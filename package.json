@@ -1,0 +1,30 @@
+{
+  "name": "thunder",
+  "version": "1.0.0",
+  "description": "nodejs spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takeern/thunder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takeern/thunder/issues"
+  },
+  "homepage": "https://github.com/takeern/thunder#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "encoding": "^0.1.12",
+    "moment": "^2.22.2",
+    "superagent": "^3.8.3",
+    "superagent-charset": "^1.2.0",
+    "superagent-proxy": "^1.0.3",
+    "tesseract.js": "^1.0.10",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {}
+}
